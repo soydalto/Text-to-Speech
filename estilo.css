@@ -1,0 +1,25 @@
+* {
+	padding: 0px;
+	margin: 0px;
+	font-family: Century Gothic;
+}
+
+body {
+	background-color: #ededed;
+}
+
+div {
+	padding: 30px;
+	background-color: #fff;
+	margin: 50px;
+}
+
+input {
+	padding: 9px;
+	font-size: 18px;
+	border: solid 1px #aaa;
+	width: 80%
+}
+input[type="button"] {
+	width: 15%
+}
